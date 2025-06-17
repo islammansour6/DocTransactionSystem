@@ -1,0 +1,23 @@
+@model IEnumerable<DocTransactionSystem.Models.Transaction>
+
+<h2>Transactions</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Transaction Code</th>
+            <th>Receiving Date</th>
+            <th>Beneficiary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.TransactionCode</td>
+                <td>@item.ReceivingDate.ToShortDateString()</td>
+                <td>@item.BeneficiaryName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Create" class="btn btn-primary">Add New</a>

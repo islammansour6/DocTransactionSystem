@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A65A96-CF12-48D2-AA80-FE8920221AFB}|DocTransactionSystem.Web\\DocTransactionSystem.Web.csproj|c:\\users\\islam\\source\\repos\\doctransactionsystem.web\\doctransactionsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A65A96-CF12-48D2-AA80-FE8920221AFB}|DocTransactionSystem.Web\\DocTransactionSystem.Web.csproj|solutionrelative:doctransactionsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9A093-0623-4544-B9A5-15839684E668}|DocTransactionSystem.Data\\DocTransactionSystem.Data.csproj|c:\\users\\islam\\source\\repos\\doctransactionsystem.web\\doctransactionsystem.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9A093-0623-4544-B9A5-15839684E668}|DocTransactionSystem.Data\\DocTransactionSystem.Data.csproj|solutionrelative:doctransactionsystem.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9A093-0623-4544-B9A5-15839684E668}|DocTransactionSystem.Data\\DocTransactionSystem.Data.csproj|c:\\users\\islam\\source\\repos\\doctransactionsystem.web\\doctransactionsystem.data\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9A093-0623-4544-B9A5-15839684E668}|DocTransactionSystem.Data\\DocTransactionSystem.Data.csproj|solutionrelative:doctransactionsystem.data\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E9A093-0623-4544-B9A5-15839684E668}|DocTransactionSystem.Data\\DocTransactionSystem.Data.csproj|c:\\users\\islam\\source\\repos\\doctransactionsystem.web\\doctransactionsystem.data\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E9A093-0623-4544-B9A5-15839684E668}|DocTransactionSystem.Data\\DocTransactionSystem.Data.csproj|solutionrelative:doctransactionsystem.data\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8037D72-3D85-4D42-AF58-0AA1E999940F}|DocTransactionSystem.Models\\DocTransactionSystem.Models.csproj|c:\\users\\islam\\source\\repos\\doctransactionsystem.web\\doctransactionsystem.models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8037D72-3D85-4D42-AF58-0AA1E999940F}|DocTransactionSystem.Models\\DocTransactionSystem.Models.csproj|solutionrelative:doctransactionsystem.models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Data\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "DocTransactionSystem.Data\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Data\\TransactionRepository.cs",
+              "RelativeToolTip": "DocTransactionSystem.Data\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:27:49.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "DocTransactionSystem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Web\\Program.cs",
+              "RelativeToolTip": "DocTransactionSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:15:15.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Data\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "DocTransactionSystem.Data\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Data\\ITransactionRepository.cs",
+              "RelativeToolTip": "DocTransactionSystem.Data\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:12:27.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DocTransactionSystem.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Data\\AppDbContext.cs",
+              "RelativeToolTip": "DocTransactionSystem.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:09:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "DocTransactionSystem.Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ISLAM\\source\\repos\\DocTransactionSystem.Web\\DocTransactionSystem.Models\\Transaction.cs",
+              "RelativeToolTip": "DocTransactionSystem.Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:07:11.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
